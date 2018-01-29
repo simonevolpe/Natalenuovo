@@ -1,0 +1,15 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    ViewBag.Title = "UserDashBoard";
+}
+<fieldset>
+    <legend>User DashBoard</legend>
+    @if (Session["ScreenName"] != null)
+    {
+        <text>Welcome @Session["ScreenName"].ToString()</text>
+    }
+</fieldset>
+
+}

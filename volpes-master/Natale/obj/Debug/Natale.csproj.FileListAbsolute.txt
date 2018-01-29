@@ -1,0 +1,115 @@
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\ApplicationInsights.config
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Natale.dll.config
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Natale.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Natale.pdb
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Antlr3.Runtime.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.Web.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\MongoDB.Bson.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\MongoDB.Driver.Core.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\MongoDB.Driver.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Natale.Classes.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Newtonsoft.Json.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.Helpers.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.Mvc.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.Optimization.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.Razor.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.WebPages.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.WebPages.Razor.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\WebGrease.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Natale.Classes.pdb
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\MongoDB.Bson.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\MongoDB.Driver.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\MongoDB.Driver.Core.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.Helpers.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.Mvc.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.Optimization.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.Razor.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.WebPages.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.WebPages.Razor.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Antlr3.Runtime.pdb
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Newtonsoft.Json.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.Web.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\it\System.Web.Helpers.resources.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\it\System.Web.Mvc.resources.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\it\System.Web.Optimization.resources.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\it\System.Web.Razor.resources.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\it\System.Web.WebPages.resources.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\it\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\it\System.Web.WebPages.Razor.resources.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\obj\Debug\Natale.csprojResolveAssemblyReference.cache
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\obj\Debug\Natale.csproj.CoreCompileInputs.cache
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\obj\Debug\Natale.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\obj\Debug\Natale.pdb
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\ApplicationInsights.config
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Natale.dll.config
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Natale.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Natale.pdb
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Antlr3.Runtime.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Microsoft.AI.Agent.Intercept.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Microsoft.AI.DependencyCollector.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Microsoft.AI.PerfCounterCollector.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Microsoft.AI.Web.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Microsoft.AI.WindowsServer.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Microsoft.ApplicationInsights.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Microsoft.Web.Infrastructure.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\MongoDB.Bson.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\MongoDB.Driver.Core.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\MongoDB.Driver.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Natale.Classes.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Newtonsoft.Json.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\System.Web.Helpers.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\System.Web.Mvc.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\System.Web.Optimization.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\System.Web.Razor.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\System.Web.WebPages.Deployment.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\System.Web.WebPages.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\System.Web.WebPages.Razor.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\WebGrease.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Natale.Classes.pdb
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\MongoDB.Bson.xml
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\MongoDB.Driver.xml
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\MongoDB.Driver.Core.xml
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\System.Web.Helpers.xml
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\System.Web.Mvc.xml
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\System.Web.Optimization.xml
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\System.Web.Razor.xml
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\System.Web.WebPages.xml
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\System.Web.WebPages.Deployment.xml
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\System.Web.WebPages.Razor.xml
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Antlr3.Runtime.pdb
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Newtonsoft.Json.xml
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Microsoft.ApplicationInsights.xml
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Microsoft.AI.DependencyCollector.xml
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Microsoft.AI.WindowsServer.xml
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\Microsoft.AI.Web.xml
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\it\System.Web.Helpers.resources.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\it\System.Web.Mvc.resources.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\it\System.Web.Optimization.resources.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\it\System.Web.Razor.resources.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\it\System.Web.WebPages.resources.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\it\System.Web.WebPages.Deployment.resources.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\bin\it\System.Web.WebPages.Razor.resources.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\obj\Debug\Natale.csprojResolveAssemblyReference.cache
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\obj\Debug\Natale.dll
+\\studenti.local\Share\UserFolder\s.volpe\Desktop\copia adamo\natale-master\natale-master\Natale\Natale\obj\Debug\Natale.pdb
